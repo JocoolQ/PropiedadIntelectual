@@ -8,7 +8,10 @@ Gestión Tecnológica - 2019-3 Integrantes:
 
 Juego de aprendizaje elaborado en Unity acerca de la Propiedad Intelectual
 
-Incluye 2 carpetas: 
+Incluye el código fuente y un ejecutable del juego
 
-1) IntellectualPropertyPipes(Build) que contiene el juego en ejecutable para Windows version 64 bits y 
-2) IntellectualPropertyPipes que contiene el proyecto del juego elaborado en Unity 2019
+Para probar el juego, ejecute el archivo IntellectualPropertyPipes.exe que se encuentra en la carpeta Build_x86
+Igualmente, puede descargar el archivo .rar en releases y ejecutar el archivo.
+
+El proyecto del juego está elaborado en la última versión de Unity, 2019.3.5f1.
+Para abrir el código en Unity se debe entrar a la carpeta del repositorio mediante Unity Hub
